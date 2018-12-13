@@ -1,0 +1,809 @@
+sex,age,population,status,age_bucket,probability
+Male,1,31876,Single,0-4 years,0.51
+Male,1,32824,Single,0-4 years,0.51
+Male,2,34031,Single,0-4 years,0.51
+Male,3,34785,Single,0-4 years,0.51
+Male,4,36215,Single,0-4 years,0.51
+Male,5,36831,Single,5-14 years,0.51
+Male,6,37033,Single,5-14 years,0.51
+Male,7,36853,Single,5-14 years,0.51
+Male,8,36444,Single,5-14 years,0.51
+Male,9,34309,Single,5-14 years,0.51
+Male,10,33167,Single,5-14 years,0.51
+Male,11,33016,Single,5-14 years,0.51
+Male,12,32896,Single,5-14 years,0.51
+Male,13,32317,Single,5-14 years,0.51
+Male,14,31982,Single,5-14 years,0.51
+Male,15,31483,Single,15-24 years,0.49
+Male,16,31182,Single,15-24 years,0.49
+Male,17,31537,Single,15-24 years,0.49
+Male,18,31260,Single,15-24 years,0.49
+Male,19,29138,Single,15-24 years,0.49
+Male,20,28224,Single,15-24 years,0.49
+Male,21,27058,Single,15-24 years,0.49
+Male,22,26832,Single,15-24 years,0.49
+Male,23,26586,Single,15-24 years,0.49
+Male,24,26197,Single,15-24 years,0.49
+Male,25,27212,Single,25-34 years,0.49
+Male,26,25673,Single,25-34 years,0.49
+Male,27,26068,Single,25-34 years,0.49
+Male,28,24362,Single,25-34 years,0.49
+Male,29,24277,Single,25-34 years,0.49
+Male,30,23951,Single,25-34 years,0.49
+Male,31,22137,Single,25-34 years,0.49
+Male,32,20979,Single,25-34 years,0.49
+Male,33,19939,Single,25-34 years,0.49
+Male,34,18876,Single,25-34 years,0.49
+Male,35,18544,Single,35-54 years,0.47
+Male,36,17575,Single,35-54 years,0.47
+Male,37,14489,Single,35-54 years,0.47
+Male,38,13513,Single,35-54 years,0.47
+Male,39,12004,Single,35-54 years,0.47
+Male,40,11601,Single,35-54 years,0.47
+Male,41,10880,Single,35-54 years,0.47
+Male,42,10304,Single,35-54 years,0.47
+Male,43,9813,Single,35-54 years,0.47
+Male,44,9021,Single,35-54 years,0.47
+Male,45,9075,Single,35-54 years,0.47
+Male,46,8177,Single,35-54 years,0.47
+Male,47,7169,Single,35-54 years,0.47
+Male,48,6951,Single,35-54 years,0.47
+Male,49,6633,Single,35-54 years,0.47
+Male,50,6477,Single,35-54 years,0.47
+Male,51,6175,Single,35-54 years,0.47
+Male,52,5745,Single,35-54 years,0.47
+Male,53,5261,Single,35-54 years,0.47
+Male,54,5154,Single,35-54 years,0.47
+Male,55,5003,Single,55-74 years,0.43
+Male,56,4562,Single,55-74 years,0.43
+Male,57,4369,Single,55-74 years,0.43
+Male,58,4102,Single,55-74 years,0.43
+Male,59,3858,Single,55-74 years,0.43
+Male,60,3765,Single,55-74 years,0.43
+Male,61,3724,Single,55-74 years,0.43
+Male,62,3518,Single,55-74 years,0.43
+Male,63,3455,Single,55-74 years,0.43
+Male,64,3169,Single,55-74 years,0.43
+Male,65,3210,Single,55-74 years,0.43
+Male,66,3145,Single,55-74 years,0.43
+Male,67,3032,Single,55-74 years,0.43
+Male,68,2831,Single,55-74 years,0.43
+Male,69,2616,Single,55-74 years,0.43
+Male,70,2420,Single,55-74 years,0.43
+Male,71,2200,Single,55-74 years,0.43
+Male,72,2146,Single,55-74 years,0.43
+Male,73,1960,Single,55-74 years,0.43
+Male,74,1830,Single,55-74 years,0.43
+Male,75,1740,Single,75+ years,0.53
+Male,76,1682,Single,75+ years,0.53
+Male,77,1519,Single,75+ years,0.53
+Male,78,1500,Single,75+ years,0.53
+Male,79,1412,Single,75+ years,0.53
+Male,80,1334,Single,75+ years,0.53
+Male,81,1251,Single,75+ years,0.53
+Male,82,1146,Single,75+ years,0.53
+Male,83,1010,Single,75+ years,0.53
+Male,84,916,Single,75+ years,0.53
+Male,85,802,Single,75+ years,0.53
+Male,86,723,Single,75+ years,0.53
+Male,87,583,Single,75+ years,0.53
+Male,88,481,Single,75+ years,0.53
+Male,89,386,Single,75+ years,0.53
+Male,90,328,Single,75+ years,0.53
+Male,91,245,Single,75+ years,0.53
+Male,92,210,Single,75+ years,0.53
+Male,93,140,Single,75+ years,0.53
+Male,94,98,Single,75+ years,0.53
+Male,95,69,Single,75+ years,0.53
+Male,96,77,Single,75+ years,0.53
+Male,97,48,Single,75+ years,0.53
+Male,98,18,Single,75+ years,0.53
+Male,99,17,Single,75+ years,0.53
+Male,100,19,Single,75+ years,0.53
+Female,1,30381,Single,0-4 years,0.49
+Female,1,31205,Single,0-4 years,0.49
+Female,2,32287,Single,0-4 years,0.49
+Female,3,33291,Single,0-4 years,0.49
+Female,4,34620,Single,0-4 years,0.49
+Female,5,35573,Single,5-14 years,0.49
+Female,6,35484,Single,5-14 years,0.49
+Female,7,35313,Single,5-14 years,0.49
+Female,8,35080,Single,5-14 years,0.49
+Female,9,32641,Single,5-14 years,0.49
+Female,10,31626,Single,5-14 years,0.49
+Female,11,30998,Single,5-14 years,0.49
+Female,12,31429,Single,5-14 years,0.49
+Female,13,31214,Single,5-14 years,0.49
+Female,14,30831,Single,5-14 years,0.49
+Female,15,30159,Single,15-24 years,0.51
+Female,16,29805,Single,15-24 years,0.51
+Female,17,29775,Single,15-24 years,0.51
+Female,18,29736,Single,15-24 years,0.51
+Female,19,27987,Single,15-24 years,0.51
+Female,20,27392,Single,15-24 years,0.51
+Female,21,26417,Single,15-24 years,0.51
+Female,22,26168,Single,15-24 years,0.51
+Female,23,25561,Single,15-24 years,0.51
+Female,24,25919,Single,15-24 years,0.51
+Female,25,25940,Single,25-34 years,0.51
+Female,26,25058,Single,25-34 years,0.51
+Female,27,25372,Single,25-34 years,0.51
+Female,28,24131,Single,25-34 years,0.51
+Female,29,23294,Single,25-34 years,0.51
+Female,30,22842,Single,25-34 years,0.51
+Female,31,20608,Single,25-34 years,0.51
+Female,32,19562,Single,25-34 years,0.51
+Female,33,18501,Single,25-34 years,0.51
+Female,34,17338,Single,25-34 years,0.51
+Female,35,16827,Single,35-54 years,0.53
+Female,36,15732,Single,35-54 years,0.53
+Female,37,13631,Single,35-54 years,0.53
+Female,38,12049,Single,35-54 years,0.53
+Female,39,11143,Single,35-54 years,0.53
+Female,40,10495,Single,35-54 years,0.53
+Female,41,9942,Single,35-54 years,0.53
+Female,42,9431,Single,35-54 years,0.53
+Female,43,9095,Single,35-54 years,0.53
+Female,44,8406,Single,35-54 years,0.53
+Female,45,7944,Single,35-54 years,0.53
+Female,46,7328,Single,35-54 years,0.53
+Female,47,6402,Single,35-54 years,0.53
+Female,48,6142,Single,35-54 years,0.53
+Female,49,5685,Single,35-54 years,0.53
+Female,50,5412,Single,35-54 years,0.53
+Female,51,5372,Single,35-54 years,0.53
+Female,52,4788,Single,35-54 years,0.53
+Female,53,4436,Single,35-54 years,0.53
+Female,54,4017,Single,35-54 years,0.53
+Female,55,3863,Single,55-74 years,0.57
+Female,56,3780,Single,55-74 years,0.57
+Female,57,3468,Single,55-74 years,0.57
+Female,58,3322,Single,55-74 years,0.57
+Female,59,3031,Single,55-74 years,0.57
+Female,60,2963,Single,55-74 years,0.57
+Female,61,2801,Single,55-74 years,0.57
+Female,62,2637,Single,55-74 years,0.57
+Female,63,2525,Single,55-74 years,0.57
+Female,64,2301,Single,55-74 years,0.57
+Female,65,2188,Single,55-74 years,0.57
+Female,66,2192,Single,55-74 years,0.57
+Female,67,2092,Single,55-74 years,0.57
+Female,68,1968,Single,55-74 years,0.57
+Female,69,1873,Single,55-74 years,0.57
+Female,70,1922,Single,55-74 years,0.57
+Female,71,1748,Single,55-74 years,0.57
+Female,72,1561,Single,55-74 years,0.57
+Female,73,1499,Single,55-74 years,0.57
+Female,74,1376,Single,55-74 years,0.57
+Female,75,1416,Single,75+ years,0.47
+Female,76,1320,Single,75+ years,0.47
+Female,77,1302,Single,75+ years,0.47
+Female,78,1342,Single,75+ years,0.47
+Female,79,1269,Single,75+ years,0.47
+Female,80,1254,Single,75+ years,0.47
+Female,81,1234,Single,75+ years,0.47
+Female,82,1218,Single,75+ years,0.47
+Female,83,1062,Single,75+ years,0.47
+Female,84,1128,Single,75+ years,0.47
+Female,85,964,Single,75+ years,0.47
+Female,86,1020,Single,75+ years,0.47
+Female,87,878,Single,75+ years,0.47
+Female,88,717,Single,75+ years,0.47
+Female,89,688,Single,75+ years,0.47
+Female,90,631,Single,75+ years,0.47
+Female,91,503,Single,75+ years,0.47
+Female,92,431,Single,75+ years,0.47
+Female,93,339,Single,75+ years,0.47
+Female,94,251,Single,75+ years,0.47
+Female,95,214,Single,75+ years,0.47
+Female,96,187,Single,75+ years,0.47
+Female,97,107,Single,75+ years,0.47
+Female,98,92,Single,75+ years,0.47
+Female,99,56,Single,75+ years,0.47
+Female,100,86,Single,75+ years,0.47
+Male,1,0,Married,0-4 years,0
+Male,1,0,Married,0-4 years,0
+Male,2,0,Married,0-4 years,0
+Male,3,0,Married,0-4 years,0
+Male,4,0,Married,0-4 years,0
+Male,5,0,Married,5-14 years,0
+Male,6,0,Married,5-14 years,0
+Male,7,0,Married,5-14 years,0
+Male,8,0,Married,5-14 years,0
+Male,9,0,Married,5-14 years,0
+Male,10,0,Married,5-14 years,0
+Male,11,0,Married,5-14 years,0
+Male,12,0,Married,5-14 years,0
+Male,13,0,Married,5-14 years,0
+Male,14,0,Married,5-14 years,0
+Male,15,0,Married,15-24 years,0.37
+Male,16,1,Married,15-24 years,0.37
+Male,17,1,Married,15-24 years,0.37
+Male,18,105,Married,15-24 years,0.37
+Male,19,155,Married,15-24 years,0.37
+Male,20,239,Married,15-24 years,0.37
+Male,21,311,Married,15-24 years,0.37
+Male,22,440,Married,15-24 years,0.37
+Male,23,611,Married,15-24 years,0.37
+Male,24,808,Married,15-24 years,0.37
+Male,25,1488,Married,25-34 years,0.58
+Male,26,1872,Married,25-34 years,0.58
+Male,27,4005,Married,25-34 years,0.58
+Male,28,3870,Married,25-34 years,0.58
+Male,29,5453,Married,25-34 years,0.58
+Male,30,8406,Married,25-34 years,0.58
+Male,31,10090,Married,25-34 years,0.58
+Male,32,12589,Married,25-34 years,0.58
+Male,33,15219,Married,25-34 years,0.58
+Male,34,17605,Married,25-34 years,0.58
+Male,35,20125,Married,35-54 years,0.5
+Male,36,22050,Married,35-54 years,0.5
+Male,37,21599,Married,35-54 years,0.5
+Male,38,21862,Married,35-54 years,0.5
+Male,39,22378,Married,35-54 years,0.5
+Male,40,23135,Married,35-54 years,0.5
+Male,41,22788,Married,35-54 years,0.5
+Male,42,22845,Married,35-54 years,0.5
+Male,43,23274,Married,35-54 years,0.5
+Male,44,23057,Married,35-54 years,0.5
+Male,45,23584,Married,35-54 years,0.5
+Male,46,22628,Married,35-54 years,0.5
+Male,47,21906,Married,35-54 years,0.5
+Male,48,21388,Married,35-54 years,0.5
+Male,49,21068,Married,35-54 years,0.5
+Male,50,21154,Married,35-54 years,0.5
+Male,51,20898,Married,35-54 years,0.5
+Male,52,20460,Married,35-54 years,0.5
+Male,53,20164,Married,35-54 years,0.5
+Male,54,19658,Married,35-54 years,0.5
+Male,55,19725,Married,55-74 years,0.48
+Male,56,18868,Married,55-74 years,0.48
+Male,57,19151,Married,55-74 years,0.48
+Male,58,18218,Married,55-74 years,0.48
+Male,59,17908,Married,55-74 years,0.48
+Male,60,17560,Married,55-74 years,0.48
+Male,61,17185,Married,55-74 years,0.48
+Male,62,16747,Married,55-74 years,0.48
+Male,63,16749,Married,55-74 years,0.48
+Male,64,15946,Married,55-74 years,0.48
+Male,65,15638,Married,55-74 years,0.48
+Male,66,15099,Married,55-74 years,0.48
+Male,67,14886,Married,55-74 years,0.48
+Male,68,14793,Married,55-74 years,0.48
+Male,69,14242,Married,55-74 years,0.48
+Male,70,13419,Married,55-74 years,0.48
+Male,71,12233,Married,55-74 years,0.48
+Male,72,11297,Married,55-74 years,0.48
+Male,73,10373,Married,55-74 years,0.48
+Male,74,9332,Married,55-74 years,0.48
+Male,75,8283,Married,75+ years,0.41
+Male,76,7985,Married,75+ years,0.41
+Male,77,7424,Married,75+ years,0.41
+Male,78,6605,Married,75+ years,0.41
+Male,79,6058,Married,75+ years,0.41
+Male,80,5515,Married,75+ years,0.41
+Male,81,4873,Married,75+ years,0.41
+Male,82,4245,Married,75+ years,0.41
+Male,83,3640,Married,75+ years,0.41
+Male,84,3065,Married,75+ years,0.41
+Male,85,2674,Married,75+ years,0.41
+Male,86,2078,Married,75+ years,0.41
+Male,87,1569,Married,75+ years,0.41
+Male,88,1206,Married,75+ years,0.41
+Male,89,949,Married,75+ years,0.41
+Male,90,685,Married,75+ years,0.41
+Male,91,535,Married,75+ years,0.41
+Male,92,329,Married,75+ years,0.41
+Male,93,253,Married,75+ years,0.41
+Male,94,157,Married,75+ years,0.41
+Male,95,125,Married,75+ years,0.41
+Male,96,98,Married,75+ years,0.41
+Male,97,44,Married,75+ years,0.41
+Male,98,22,Married,75+ years,0.41
+Male,99,25,Married,75+ years,0.41
+Male,100,14,Married,75+ years,0.41
+Female,1,0,Married,0-4 years,0
+Female,1,0,Married,0-4 years,0
+Female,2,0,Married,0-4 years,0
+Female,3,0,Married,0-4 years,0
+Female,4,0,Married,0-4 years,0
+Female,5,0,Married,5-14 years,0
+Female,6,0,Married,5-14 years,0
+Female,7,0,Married,5-14 years,0
+Female,8,0,Married,5-14 years,0
+Female,9,0,Married,5-14 years,0
+Female,10,0,Married,5-14 years,0
+Female,11,0,Married,5-14 years,0
+Female,12,0,Married,5-14 years,0
+Female,13,0,Married,5-14 years,0
+Female,14,0,Married,5-14 years,0
+Female,15,1,Married,15-24 years,0.63
+Female,16,1,Married,15-24 years,0.63
+Female,17,2,Married,15-24 years,0.63
+Female,18,152,Married,15-24 years,0.63
+Female,19,243,Married,15-24 years,0.63
+Female,20,402,Married,15-24 years,0.63
+Female,21,519,Married,15-24 years,0.63
+Female,22,781,Married,15-24 years,0.63
+Female,23,1016,Married,15-24 years,0.63
+Female,24,1474,Married,15-24 years,0.63
+Female,25,2359,Married,25-34 years,0.42
+Female,26,3268,Married,25-34 years,0.42
+Female,27,5722,Married,25-34 years,0.42
+Female,28,6402,Married,25-34 years,0.42
+Female,29,8825,Married,25-34 years,0.42
+Female,30,11916,Married,25-34 years,0.42
+Female,31,13927,Married,25-34 years,0.42
+Female,32,16740,Married,25-34 years,0.42
+Female,33,19713,Married,25-34 years,0.42
+Female,34,21382,Married,25-34 years,0.42
+Female,35,22828,Married,35-54 years,0.5
+Female,36,24406,Married,35-54 years,0.5
+Female,37,23811,Married,35-54 years,0.5
+Female,38,23371,Married,35-54 years,0.5
+Female,39,23004,Married,35-54 years,0.5
+Female,40,23588,Married,35-54 years,0.5
+Female,41,23310,Married,35-54 years,0.5
+Female,42,23072,Married,35-54 years,0.5
+Female,43,23100,Married,35-54 years,0.5
+Female,44,22826,Married,35-54 years,0.5
+Female,45,23110,Married,35-54 years,0.5
+Female,46,22063,Married,35-54 years,0.5
+Female,47,20919,Married,35-54 years,0.5
+Female,48,20912,Married,35-54 years,0.5
+Female,49,20571,Married,35-54 years,0.5
+Female,50,20885,Married,35-54 years,0.5
+Female,51,20784,Married,35-54 years,0.5
+Female,52,20425,Married,35-54 years,0.5
+Female,53,20034,Married,35-54 years,0.5
+Female,54,19330,Married,35-54 years,0.5
+Female,55,19663,Married,55-74 years,0.52
+Female,56,18653,Married,55-74 years,0.52
+Female,57,18496,Married,55-74 years,0.52
+Female,58,17926,Married,55-74 years,0.52
+Female,59,17213,Married,55-74 years,0.52
+Female,60,16974,Married,55-74 years,0.52
+Female,61,16819,Married,55-74 years,0.52
+Female,62,16057,Married,55-74 years,0.52
+Female,63,16117,Married,55-74 years,0.52
+Female,64,15215,Married,55-74 years,0.52
+Female,65,14751,Married,55-74 years,0.52
+Female,66,14636,Married,55-74 years,0.52
+Female,67,13903,Married,55-74 years,0.52
+Female,68,13538,Married,55-74 years,0.52
+Female,69,12692,Married,55-74 years,0.52
+Female,70,11912,Married,55-74 years,0.52
+Female,71,10603,Married,55-74 years,0.52
+Female,72,9725,Married,55-74 years,0.52
+Female,73,8733,Married,55-74 years,0.52
+Female,74,7513,Married,55-74 years,0.52
+Female,75,6750,Married,75+ years,0.59
+Female,76,6287,Married,75+ years,0.59
+Female,77,5708,Married,75+ years,0.59
+Female,78,4902,Married,75+ years,0.59
+Female,79,4281,Married,75+ years,0.59
+Female,80,3717,Married,75+ years,0.59
+Female,81,3235,Married,75+ years,0.59
+Female,82,2616,Married,75+ years,0.59
+Female,83,2030,Married,75+ years,0.59
+Female,84,1764,Married,75+ years,0.59
+Female,85,1425,Married,75+ years,0.59
+Female,86,1052,Married,75+ years,0.59
+Female,87,821,Married,75+ years,0.59
+Female,88,576,Married,75+ years,0.59
+Female,89,435,Married,75+ years,0.59
+Female,90,334,Married,75+ years,0.59
+Female,91,257,Married,75+ years,0.59
+Female,92,142,Married,75+ years,0.59
+Female,93,122,Married,75+ years,0.59
+Female,94,74,Married,75+ years,0.59
+Female,95,64,Married,75+ years,0.59
+Female,96,40,Married,75+ years,0.59
+Female,97,33,Married,75+ years,0.59
+Female,98,18,Married,75+ years,0.59
+Female,99,7,Married,75+ years,0.59
+Female,100,14,Married,75+ years,0.59
+Male,1,0,Separated or Divorced,0-4 years,0
+Male,1,0,Separated or Divorced,0-4 years,0
+Male,2,0,Separated or Divorced,0-4 years,0
+Male,3,0,Separated or Divorced,0-4 years,0
+Male,4,0,Separated or Divorced,0-4 years,0
+Male,5,0,Separated or Divorced,5-14 years,0
+Male,6,0,Separated or Divorced,5-14 years,0
+Male,7,0,Separated or Divorced,5-14 years,0
+Male,8,0,Separated or Divorced,5-14 years,0
+Male,9,0,Separated or Divorced,5-14 years,0
+Male,10,0,Separated or Divorced,5-14 years,0
+Male,11,0,Separated or Divorced,5-14 years,0
+Male,12,0,Separated or Divorced,5-14 years,0
+Male,13,0,Separated or Divorced,5-14 years,0
+Male,14,0,Separated or Divorced,5-14 years,0
+Male,15,0,Separated or Divorced,15-24 years,0.6
+Male,16,0,Separated or Divorced,15-24 years,0.6
+Male,17,2,Separated or Divorced,15-24 years,0.6
+Male,18,10,Separated or Divorced,15-24 years,0.6
+Male,19,6,Separated or Divorced,15-24 years,0.6
+Male,20,20,Separated or Divorced,15-24 years,0.6
+Male,21,23,Separated or Divorced,15-24 years,0.6
+Male,22,35,Separated or Divorced,15-24 years,0.6
+Male,23,53,Separated or Divorced,15-24 years,0.6
+Male,24,47,Separated or Divorced,15-24 years,0.6
+Male,25,70,Separated or Divorced,25-34 years,0.65
+Male,26,107,Separated or Divorced,25-34 years,0.65
+Male,27,131,Separated or Divorced,25-34 years,0.65
+Male,28,188,Separated or Divorced,25-34 years,0.65
+Male,29,273,Separated or Divorced,25-34 years,0.65
+Male,30,331,Separated or Divorced,25-34 years,0.65
+Male,31,509,Separated or Divorced,25-34 years,0.65
+Male,32,583,Separated or Divorced,25-34 years,0.65
+Male,33,757,Separated or Divorced,25-34 years,0.65
+Male,34,881,Separated or Divorced,25-34 years,0.65
+Male,35,1098,Separated or Divorced,35-54 years,0.6
+Male,36,1176,Separated or Divorced,35-54 years,0.6
+Male,37,1322,Separated or Divorced,35-54 years,0.6
+Male,38,1357,Separated or Divorced,35-54 years,0.6
+Male,39,1508,Separated or Divorced,35-54 years,0.6
+Male,40,1660,Separated or Divorced,35-54 years,0.6
+Male,41,1887,Separated or Divorced,35-54 years,0.6
+Male,42,2007,Separated or Divorced,35-54 years,0.6
+Male,43,2201,Separated or Divorced,35-54 years,0.6
+Male,44,2285,Separated or Divorced,35-54 years,0.6
+Male,45,2424,Separated or Divorced,35-54 years,0.6
+Male,46,2509,Separated or Divorced,35-54 years,0.6
+Male,47,2649,Separated or Divorced,35-54 years,0.6
+Male,48,2744,Separated or Divorced,35-54 years,0.6
+Male,49,2830,Separated or Divorced,35-54 years,0.6
+Male,50,2863,Separated or Divorced,35-54 years,0.6
+Male,51,3056,Separated or Divorced,35-54 years,0.6
+Male,52,3064,Separated or Divorced,35-54 years,0.6
+Male,53,3212,Separated or Divorced,35-54 years,0.6
+Male,54,3125,Separated or Divorced,35-54 years,0.6
+Male,55,3111,Separated or Divorced,55-74 years,0.54
+Male,56,3062,Separated or Divorced,55-74 years,0.54
+Male,57,3091,Separated or Divorced,55-74 years,0.54
+Male,58,2959,Separated or Divorced,55-74 years,0.54
+Male,59,2966,Separated or Divorced,55-74 years,0.54
+Male,60,2740,Separated or Divorced,55-74 years,0.54
+Male,61,2726,Separated or Divorced,55-74 years,0.54
+Male,62,2443,Separated or Divorced,55-74 years,0.54
+Male,63,2415,Separated or Divorced,55-74 years,0.54
+Male,64,2311,Separated or Divorced,55-74 years,0.54
+Male,65,2194,Separated or Divorced,55-74 years,0.54
+Male,66,1967,Separated or Divorced,55-74 years,0.54
+Male,67,1912,Separated or Divorced,55-74 years,0.54
+Male,68,1714,Separated or Divorced,55-74 years,0.54
+Male,69,1537,Separated or Divorced,55-74 years,0.54
+Male,70,1278,Separated or Divorced,55-74 years,0.54
+Male,71,1180,Separated or Divorced,55-74 years,0.54
+Male,72,1043,Separated or Divorced,55-74 years,0.54
+Male,73,846,Separated or Divorced,55-74 years,0.54
+Male,74,714,Separated or Divorced,55-74 years,0.54
+Male,75,628,Separated or Divorced,75+ years,0.49
+Male,76,550,Separated or Divorced,75+ years,0.49
+Male,77,495,Separated or Divorced,75+ years,0.49
+Male,78,382,Separated or Divorced,75+ years,0.49
+Male,79,353,Separated or Divorced,75+ years,0.49
+Male,80,273,Separated or Divorced,75+ years,0.49
+Male,81,234,Separated or Divorced,75+ years,0.49
+Male,82,195,Separated or Divorced,75+ years,0.49
+Male,83,139,Separated or Divorced,75+ years,0.49
+Male,84,110,Separated or Divorced,75+ years,0.49
+Male,85,91,Separated or Divorced,75+ years,0.49
+Male,86,59,Separated or Divorced,75+ years,0.49
+Male,87,50,Separated or Divorced,75+ years,0.49
+Male,88,44,Separated or Divorced,75+ years,0.49
+Male,89,30,Separated or Divorced,75+ years,0.49
+Male,90,12,Separated or Divorced,75+ years,0.49
+Male,91,16,Separated or Divorced,75+ years,0.49
+Male,92,5,Separated or Divorced,75+ years,0.49
+Male,93,9,Separated or Divorced,75+ years,0.49
+Male,94,4,Separated or Divorced,75+ years,0.49
+Male,95,1,Separated or Divorced,75+ years,0.49
+Male,96,16,Separated or Divorced,75+ years,0.49
+Male,97,9,Separated or Divorced,75+ years,0.49
+Male,98,2,Separated or Divorced,75+ years,0.49
+Male,99,4,Separated or Divorced,75+ years,0.49
+Male,100,1,Separated or Divorced,75+ years,0.49
+Female,1,0,Separated or Divorced,0-4 years,0
+Female,1,0,Separated or Divorced,0-4 years,0
+Female,2,0,Separated or Divorced,0-4 years,0
+Female,3,0,Separated or Divorced,0-4 years,0
+Female,4,0,Separated or Divorced,0-4 years,0
+Female,5,0,Separated or Divorced,5-14 years,0
+Female,6,0,Separated or Divorced,5-14 years,0
+Female,7,0,Separated or Divorced,5-14 years,0
+Female,8,0,Separated or Divorced,5-14 years,0
+Female,9,0,Separated or Divorced,5-14 years,0
+Female,10,0,Separated or Divorced,5-14 years,0
+Female,11,0,Separated or Divorced,5-14 years,0
+Female,12,0,Separated or Divorced,5-14 years,0
+Female,13,0,Separated or Divorced,5-14 years,0
+Female,14,0,Separated or Divorced,5-14 years,0
+Female,15,0,Separated or Divorced,15-24 years,0.4
+Female,16,0,Separated or Divorced,15-24 years,0.4
+Female,17,0,Separated or Divorced,15-24 years,0.4
+Female,18,8,Separated or Divorced,15-24 years,0.4
+Female,19,11,Separated or Divorced,15-24 years,0.4
+Female,20,21,Separated or Divorced,15-24 years,0.4
+Female,21,32,Separated or Divorced,15-24 years,0.4
+Female,22,46,Separated or Divorced,15-24 years,0.4
+Female,23,60,Separated or Divorced,15-24 years,0.4
+Female,24,115,Separated or Divorced,15-24 years,0.4
+Female,25,154,Separated or Divorced,25-34 years,0.35
+Female,26,210,Separated or Divorced,25-34 years,0.35
+Female,27,268,Separated or Divorced,25-34 years,0.35
+Female,28,427,Separated or Divorced,25-34 years,0.35
+Female,29,538,Separated or Divorced,25-34 years,0.35
+Female,30,730,Separated or Divorced,25-34 years,0.35
+Female,31,883,Separated or Divorced,25-34 years,0.35
+Female,32,1139,Separated or Divorced,25-34 years,0.35
+Female,33,1370,Separated or Divorced,25-34 years,0.35
+Female,34,1525,Separated or Divorced,25-34 years,0.35
+Female,35,1868,Separated or Divorced,35-54 years,0.4
+Female,36,1981,Separated or Divorced,35-54 years,0.4
+Female,37,2063,Separated or Divorced,35-54 years,0.4
+Female,38,2225,Separated or Divorced,35-54 years,0.4
+Female,39,2469,Separated or Divorced,35-54 years,0.4
+Female,40,2524,Separated or Divorced,35-54 years,0.4
+Female,41,2721,Separated or Divorced,35-54 years,0.4
+Female,42,3014,Separated or Divorced,35-54 years,0.4
+Female,43,3260,Separated or Divorced,35-54 years,0.4
+Female,44,3442,Separated or Divorced,35-54 years,0.4
+Female,45,3674,Separated or Divorced,35-54 years,0.4
+Female,46,3786,Separated or Divorced,35-54 years,0.4
+Female,47,3864,Separated or Divorced,35-54 years,0.4
+Female,48,3996,Separated or Divorced,35-54 years,0.4
+Female,49,4150,Separated or Divorced,35-54 years,0.4
+Female,50,4141,Separated or Divorced,35-54 years,0.4
+Female,51,4398,Separated or Divorced,35-54 years,0.4
+Female,52,4433,Separated or Divorced,35-54 years,0.4
+Female,53,4407,Separated or Divorced,35-54 years,0.4
+Female,54,4208,Separated or Divorced,35-54 years,0.4
+Female,55,4194,Separated or Divorced,55-74 years,0.46
+Female,56,4090,Separated or Divorced,55-74 years,0.46
+Female,57,3860,Separated or Divorced,55-74 years,0.46
+Female,58,3708,Separated or Divorced,55-74 years,0.46
+Female,59,3636,Separated or Divorced,55-74 years,0.46
+Female,60,3261,Separated or Divorced,55-74 years,0.46
+Female,61,3108,Separated or Divorced,55-74 years,0.46
+Female,62,3043,Separated or Divorced,55-74 years,0.46
+Female,63,2780,Separated or Divorced,55-74 years,0.46
+Female,64,2565,Separated or Divorced,55-74 years,0.46
+Female,65,2372,Separated or Divorced,55-74 years,0.46
+Female,66,2240,Separated or Divorced,55-74 years,0.46
+Female,67,2057,Separated or Divorced,55-74 years,0.46
+Female,68,1826,Separated or Divorced,55-74 years,0.46
+Female,69,1580,Separated or Divorced,55-74 years,0.46
+Female,70,1356,Separated or Divorced,55-74 years,0.46
+Female,71,1190,Separated or Divorced,55-74 years,0.46
+Female,72,1000,Separated or Divorced,55-74 years,0.46
+Female,73,889,Separated or Divorced,55-74 years,0.46
+Female,74,726,Separated or Divorced,55-74 years,0.46
+Female,75,628,Separated or Divorced,75+ years,0.51
+Female,76,528,Separated or Divorced,75+ years,0.51
+Female,77,454,Separated or Divorced,75+ years,0.51
+Female,78,401,Separated or Divorced,75+ years,0.51
+Female,79,320,Separated or Divorced,75+ years,0.51
+Female,80,250,Separated or Divorced,75+ years,0.51
+Female,81,204,Separated or Divorced,75+ years,0.51
+Female,82,156,Separated or Divorced,75+ years,0.51
+Female,83,136,Separated or Divorced,75+ years,0.51
+Female,84,97,Separated or Divorced,75+ years,0.51
+Female,85,73,Separated or Divorced,75+ years,0.51
+Female,86,68,Separated or Divorced,75+ years,0.51
+Female,87,42,Separated or Divorced,75+ years,0.51
+Female,88,36,Separated or Divorced,75+ years,0.51
+Female,89,17,Separated or Divorced,75+ years,0.51
+Female,90,22,Separated or Divorced,75+ years,0.51
+Female,91,19,Separated or Divorced,75+ years,0.51
+Female,92,7,Separated or Divorced,75+ years,0.51
+Female,93,12,Separated or Divorced,75+ years,0.51
+Female,94,8,Separated or Divorced,75+ years,0.51
+Female,95,6,Separated or Divorced,75+ years,0.51
+Female,96,13,Separated or Divorced,75+ years,0.51
+Female,97,5,Separated or Divorced,75+ years,0.51
+Female,98,2,Separated or Divorced,75+ years,0.51
+Female,99,1,Separated or Divorced,75+ years,0.51
+Female,100,2,Separated or Divorced,75+ years,0.51
+Male,1,0,Widowed,0-4 years,0
+Male,1,0,Widowed,0-4 years,0
+Male,2,0,Widowed,0-4 years,0
+Male,3,0,Widowed,0-4 years,0
+Male,4,0,Widowed,0-4 years,0
+Male,5,0,Widowed,5-14 years,0
+Male,6,0,Widowed,5-14 years,0
+Male,7,0,Widowed,5-14 years,0
+Male,8,0,Widowed,5-14 years,0
+Male,9,0,Widowed,5-14 years,0
+Male,10,0,Widowed,5-14 years,0
+Male,11,0,Widowed,5-14 years,0
+Male,12,0,Widowed,5-14 years,0
+Male,13,0,Widowed,5-14 years,0
+Male,14,0,Widowed,5-14 years,0
+Male,15,0,Widowed,15-24 years,0.55
+Male,16,0,Widowed,15-24 years,0.55
+Male,17,0,Widowed,15-24 years,0.55
+Male,18,8,Widowed,15-24 years,0.55
+Male,19,20,Widowed,15-24 years,0.55
+Male,20,25,Widowed,15-24 years,0.55
+Male,21,15,Widowed,15-24 years,0.55
+Male,22,19,Widowed,15-24 years,0.55
+Male,23,22,Widowed,15-24 years,0.55
+Male,24,19,Widowed,15-24 years,0.55
+Male,25,24,Widowed,25-34 years,0.63
+Male,26,31,Widowed,25-34 years,0.63
+Male,27,35,Widowed,25-34 years,0.63
+Male,28,32,Widowed,25-34 years,0.63
+Male,29,51,Widowed,25-34 years,0.63
+Male,30,64,Widowed,25-34 years,0.63
+Male,31,65,Widowed,25-34 years,0.63
+Male,32,59,Widowed,25-34 years,0.63
+Male,33,75,Widowed,25-34 years,0.63
+Male,34,64,Widowed,25-34 years,0.63
+Male,35,73,Widowed,35-54 years,0.72
+Male,36,91,Widowed,35-54 years,0.72
+Male,37,84,Widowed,35-54 years,0.72
+Male,38,86,Widowed,35-54 years,0.72
+Male,39,111,Widowed,35-54 years,0.72
+Male,40,125,Widowed,35-54 years,0.72
+Male,41,119,Widowed,35-54 years,0.72
+Male,42,151,Widowed,35-54 years,0.72
+Male,43,162,Widowed,35-54 years,0.72
+Male,44,167,Widowed,35-54 years,0.72
+Male,45,160,Widowed,35-54 years,0.72
+Male,46,211,Widowed,35-54 years,0.72
+Male,47,208,Widowed,35-54 years,0.72
+Male,48,232,Widowed,35-54 years,0.72
+Male,49,278,Widowed,35-54 years,0.72
+Male,50,271,Widowed,35-54 years,0.72
+Male,51,317,Widowed,35-54 years,0.72
+Male,52,334,Widowed,35-54 years,0.72
+Male,53,395,Widowed,35-54 years,0.72
+Male,54,429,Widowed,35-54 years,0.72
+Male,55,485,Widowed,55-74 years,0.73
+Male,56,553,Widowed,55-74 years,0.73
+Male,57,564,Widowed,55-74 years,0.73
+Male,58,615,Widowed,55-74 years,0.73
+Male,59,688,Widowed,55-74 years,0.73
+Male,60,737,Widowed,55-74 years,0.73
+Male,61,800,Widowed,55-74 years,0.73
+Male,62,828,Widowed,55-74 years,0.73
+Male,63,904,Widowed,55-74 years,0.73
+Male,64,976,Widowed,55-74 years,0.73
+Male,65,1078,Widowed,55-74 years,0.73
+Male,66,1150,Widowed,55-74 years,0.73
+Male,67,1244,Widowed,55-74 years,0.73
+Male,68,1313,Widowed,55-74 years,0.73
+Male,69,1360,Widowed,55-74 years,0.73
+Male,70,1572,Widowed,55-74 years,0.73
+Male,71,1378,Widowed,55-74 years,0.73
+Male,72,1433,Widowed,55-74 years,0.73
+Male,73,1432,Widowed,55-74 years,0.73
+Male,74,1415,Widowed,55-74 years,0.73
+Male,75,1491,Widowed,75+ years,0.78
+Male,76,1538,Widowed,75+ years,0.78
+Male,77,1463,Widowed,75+ years,0.78
+Male,78,1468,Widowed,75+ years,0.78
+Male,79,1541,Widowed,75+ years,0.78
+Male,80,1557,Widowed,75+ years,0.78
+Male,81,1488,Widowed,75+ years,0.78
+Male,82,1481,Widowed,75+ years,0.78
+Male,83,1413,Widowed,75+ years,0.78
+Male,84,1311,Widowed,75+ years,0.78
+Male,85,1282,Widowed,75+ years,0.78
+Male,86,1108,Widowed,75+ years,0.78
+Male,87,978,Widowed,75+ years,0.78
+Male,88,831,Widowed,75+ years,0.78
+Male,89,752,Widowed,75+ years,0.78
+Male,90,648,Widowed,75+ years,0.78
+Male,91,528,Widowed,75+ years,0.78
+Male,92,422,Widowed,75+ years,0.78
+Male,93,345,Widowed,75+ years,0.78
+Male,94,265,Widowed,75+ years,0.78
+Male,95,193,Widowed,75+ years,0.78
+Male,96,130,Widowed,75+ years,0.78
+Male,97,91,Widowed,75+ years,0.78
+Male,98,51,Widowed,75+ years,0.78
+Male,99,28,Widowed,75+ years,0.78
+Male,100,50,Widowed,75+ years,0.78
+Female,1,0,Widowed,0-4 years,0
+Female,1,0,Widowed,0-4 years,0
+Female,2,0,Widowed,0-4 years,0
+Female,3,0,Widowed,0-4 years,0
+Female,4,0,Widowed,0-4 years,0
+Female,5,0,Widowed,5-14 years,0
+Female,6,0,Widowed,5-14 years,0
+Female,7,0,Widowed,5-14 years,0
+Female,8,0,Widowed,5-14 years,0
+Female,9,0,Widowed,5-14 years,0
+Female,10,0,Widowed,5-14 years,0
+Female,11,0,Widowed,5-14 years,0
+Female,12,0,Widowed,5-14 years,0
+Female,13,0,Widowed,5-14 years,0
+Female,14,0,Widowed,5-14 years,0
+Female,15,0,Widowed,15-24 years,0.45
+Female,16,0,Widowed,15-24 years,0.45
+Female,17,1,Widowed,15-24 years,0.45
+Female,18,15,Widowed,15-24 years,0.45
+Female,19,12,Widowed,15-24 years,0.45
+Female,20,14,Widowed,15-24 years,0.45
+Female,21,22,Widowed,15-24 years,0.45
+Female,22,31,Widowed,15-24 years,0.45
+Female,23,26,Widowed,15-24 years,0.45
+Female,24,36,Widowed,15-24 years,0.45
+Female,25,31,Widowed,25-34 years,0.47
+Female,26,38,Widowed,25-34 years,0.47
+Female,27,51,Widowed,25-34 years,0.47
+Female,28,44,Widowed,25-34 years,0.47
+Female,29,81,Widowed,25-34 years,0.47
+Female,30,107,Widowed,25-34 years,0.47
+Female,31,115,Widowed,25-34 years,0.47
+Female,32,121,Widowed,25-34 years,0.47
+Female,33,130,Widowed,25-34 years,0.47
+Female,34,147,Widowed,25-34 years,0.47
+Female,35,182,Widowed,35-54 years,0.28
+Female,36,185,Widowed,35-54 years,0.28
+Female,37,185,Widowed,35-54 years,0.28
+Female,38,218,Widowed,35-54 years,0.28
+Female,39,198,Widowed,35-54 years,0.28
+Female,40,286,Widowed,35-54 years,0.28
+Female,41,327,Widowed,35-54 years,0.28
+Female,42,348,Widowed,35-54 years,0.28
+Female,43,383,Widowed,35-54 years,0.28
+Female,44,408,Widowed,35-54 years,0.28
+Female,45,486,Widowed,35-54 years,0.28
+Female,46,506,Widowed,35-54 years,0.28
+Female,47,523,Widowed,35-54 years,0.28
+Female,48,581,Widowed,35-54 years,0.28
+Female,49,644,Widowed,35-54 years,0.28
+Female,50,785,Widowed,35-54 years,0.28
+Female,51,798,Widowed,35-54 years,0.28
+Female,52,934,Widowed,35-54 years,0.28
+Female,53,998,Widowed,35-54 years,0.28
+Female,54,1138,Widowed,35-54 years,0.28
+Female,55,1212,Widowed,55-74 years,0.27
+Female,56,1339,Widowed,55-74 years,0.27
+Female,57,1460,Widowed,55-74 years,0.27
+Female,58,1578,Widowed,55-74 years,0.27
+Female,59,1752,Widowed,55-74 years,0.27
+Female,60,1865,Widowed,55-74 years,0.27
+Female,61,2082,Widowed,55-74 years,0.27
+Female,62,2027,Widowed,55-74 years,0.27
+Female,63,2457,Widowed,55-74 years,0.27
+Female,64,2561,Widowed,55-74 years,0.27
+Female,65,2725,Widowed,55-74 years,0.27
+Female,66,3117,Widowed,55-74 years,0.27
+Female,67,3316,Widowed,55-74 years,0.27
+Female,68,3406,Widowed,55-74 years,0.27
+Female,69,3803,Widowed,55-74 years,0.27
+Female,70,3942,Widowed,55-74 years,0.27
+Female,71,4080,Widowed,55-74 years,0.27
+Female,72,4225,Widowed,55-74 years,0.27
+Female,73,4487,Widowed,55-74 years,0.27
+Female,74,4284,Widowed,55-74 years,0.27
+Female,75,4513,Widowed,75+ years,0.22
+Female,76,4820,Widowed,75+ years,0.22
+Female,77,4977,Widowed,75+ years,0.22
+Female,78,4889,Widowed,75+ years,0.22
+Female,79,5243,Widowed,75+ years,0.22
+Female,80,5387,Widowed,75+ years,0.22
+Female,81,5302,Widowed,75+ years,0.22
+Female,82,5282,Widowed,75+ years,0.22
+Female,83,5054,Widowed,75+ years,0.22
+Female,84,4715,Widowed,75+ years,0.22
+Female,85,4636,Widowed,75+ years,0.22
+Female,86,4223,Widowed,75+ years,0.22
+Female,87,3864,Widowed,75+ years,0.22
+Female,88,3487,Widowed,75+ years,0.22
+Female,89,3164,Widowed,75+ years,0.22
+Female,90,2718,Widowed,75+ years,0.22
+Female,91,2275,Widowed,75+ years,0.22
+Female,92,1872,Widowed,75+ years,0.22
+Female,93,1513,Widowed,75+ years,0.22
+Female,94,1210,Widowed,75+ years,0.22
+Female,95,879,Widowed,75+ years,0.22
+Female,96,649,Widowed,75+ years,0.22
+Female,97,397,Widowed,75+ years,0.22
+Female,98,245,Widowed,75+ years,0.22
+Female,99,180,Widowed,75+ years,0.22
+Female,100,270,Widowed,75+ years,0.22
