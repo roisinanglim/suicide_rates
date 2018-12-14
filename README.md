@@ -1,5 +1,4 @@
 # Data Simulation of Suicide rates in Ireland 
-======================================================
 
 The repository focuses on simulating a dataset based on suicide rates in Ireland. 
 
